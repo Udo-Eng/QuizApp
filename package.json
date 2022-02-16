@@ -1,0 +1,26 @@
+{
+  "name": "novice-to-ninja",
+  "version": "1.0.0",
+  "description": "This is a simple quiz application with a modular code structure",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "WEB DEVELOPMENT",
+    "JAVASCRIPT",
+    "Ninja Quiz App ",
+    "Webpack and Babel practise"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.17.2",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.3",
+    "babili-webpack-plugin": "^0.1.2",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
